@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was made for a Kaggle competition. It can be found here: https://www.kaggle.com/competitions/titanic. 
+This project is a Kaggle competition submission. The event details can be found here: https://www.kaggle.com/competitions/titanic. 
 
 ## Development Process
 
